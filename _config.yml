@@ -1,0 +1,28 @@
+name: johanlindberg
+favicon: null
+layout_spectrum: 0.9987258950714022
+typography_spectrum: 0.7371722073294222
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3405684204772115
+  lightness: 0.537203959422186
+  saturation: 0.9613509057089686
+  rhythmicContrast: 0.581319771008566
+purpose: []
