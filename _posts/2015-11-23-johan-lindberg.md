@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Johan Lindberg Gävle
-datePublished: '2015-11-23T09:36:12.989Z'
-dateModified: '2015-11-23T09:35:53.135Z'
+datePublished: '2015-11-23T09:39:41.892Z'
+dateModified: '2015-11-23T09:36:58.067Z'
 title: Johan Lindberg
 author: []
 authors: []
