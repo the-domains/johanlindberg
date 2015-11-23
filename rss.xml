@@ -4,8 +4,15 @@
         <description><![CDATA[Johan Lindberg]]></description>
         <link>https://thegrid.ai/johanlindberg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 09:42:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2015 09:42:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/johanlindberg/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/johanlindberg/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">1f63bae7-e4b4-4110-829a-55fecab9f566</guid>
+            <pubDate>Mon, 23 Nov 2015 09:41:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Johan Lindberg]]></title>
             <description><![CDATA[<article><h1>Johan Lindberg</h1><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.
@@ -15,13 +22,6 @@ Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulpu
             <link>https://thegrid.ai/johanlindberg/johan-lindberg/index.html</link>
             <guid isPermaLink="false">a5b30aab-d83a-437c-957f-fff21d9f0c66</guid>
             <pubDate>Mon, 23 Nov 2015 09:40:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/johanlindberg/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">1f63bae7-e4b4-4110-829a-55fecab9f566</guid>
-            <pubDate>Mon, 23 Nov 2015 09:40:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
