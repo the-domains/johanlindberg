@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-11-23T09:29:39.641Z'
-dateModified: '2015-11-23T09:29:36.521Z'
+datePublished: '2015-11-23T09:30:25.645Z'
+dateModified: '2015-11-23T09:30:21.905Z'
 title: Getting Started on The Grid
 author: []
 sourcePath: _posts/2015-11-23-getting-started-on-the-grid.md
@@ -19,6 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: getting-started-on-the-grid/index.html
 _context: 'http://schema.org'
 _type: Article
 
@@ -72,7 +72,7 @@ You can choose from one of four post types...
 
 **Note**: After you're done editing, you'll need to publish your post to a specific site before the options you selected take effect.
 
-#### Adding Image Details
+#### Adding Image Details   
 
 Clicking on an image within post will bring you to the Media Details view where you can add a title, caption, source URL, and more.
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616adf5c6979115d6ba721d/file-98tflbKdDO.gif)
